@@ -10,6 +10,7 @@
 .page {
   position: relative;
   font-family: 'JosefinSans', sans-serif;
+  overflow-anchor: none;
 }
 
 .video {
